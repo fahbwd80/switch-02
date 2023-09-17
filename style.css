@@ -1,0 +1,176 @@
+body {
+    text-align: center;
+    background-color: #262626;
+   }
+   .set {
+    display: grid;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+   }
+   h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #614004;
+   }
+   footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+   }
+
+   .q {
+    background-image: url("Images/mtb-1.png");
+   }
+   .w {
+    background-image: url("Images/mtb-2.png");
+   }
+   .e {
+    background-image: url("Images/mtb-7.png");
+   }
+   .r {
+    background-image: url("Images/mtb-8.png");
+   }
+   .t {
+    background-image: url("Images/mtb-5.png");
+   }
+   .y {
+    background-image: url("Images/mtb-6.png");
+   }
+   .bike {
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-color: white;
+    outline: none;
+    /* border: 20px solid #658d61; */
+    border-radius: 25px;
+    font-size: 5rem;
+    font-family: 'Roboto', cursive;
+    font-weight: 900;
+    line-height: 5;
+    color: transparent;
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    margin: 15px;
+    text-align: center;
+   }
+   .pressed {
+    box-shadow: 0 3px 4px 0 #000;
+    opacity: 0.5;
+  }
+  .image-q {
+    background-image: url(Images/mtb4-stunt-gif.gif);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-color: white;
+    outline: none;
+    border-radius: 25px;
+    font-size: 5rem;
+    font-family: 'Roboto', cursive;
+    font-weight: 900;
+    line-height: 5;
+    color: transparent;
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    margin: 15px;
+    text-align: center;
+  }
+  .image-w {
+    background-image: url(Images/mtb3-stunt-gif.gif);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-color: white;
+    outline: none;
+    border-radius: 25px;
+    font-size: 5rem;
+    font-family: 'Roboto', cursive;
+    font-weight: 900;
+    line-height: 5;
+    color: transparent;
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    margin: 15px;
+    text-align: center;
+  }
+  .image-e {
+    background-image: url(Images/mtb2-stunt-gif.gif);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-color: white;
+    outline: none;
+    border-radius: 25px;
+    font-size: 5rem;
+    font-family: 'Roboto', cursive;
+    font-weight: 900;
+    line-height: 5;
+    color: transparent;
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    margin: 15px;
+    text-align: center;
+  }
+  .image-r {
+    background-image: url(Images/mtb1-stunt-gif.gif);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-color: white;
+    outline: none;
+    border-radius: 25px;
+    font-size: 5rem;
+    font-family: 'Roboto', cursive;
+    font-weight: 900;
+    line-height: 5;
+    color: transparent;
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    margin: 15px;
+    text-align: center;
+  }
+  .image-t {
+    background-image: url(Images/alwaysoOnMyMind.gif);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-color: white;
+    outline: none;
+    border-radius: 25px;
+    font-size: 5rem;
+    font-family: 'Roboto', cursive;
+    font-weight: 900;
+    line-height: 5;
+    color: transparent;
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    margin: 15px;
+    text-align: center;
+  }
+  .image-y {
+    background-image: url(Images/mtb6-stunt-gif.gif);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-color: white;
+    outline: none;
+    border-radius: 25px;
+    font-size: 5rem;
+    font-family: 'Roboto', cursive;
+    font-weight: 900;
+    line-height: 5;
+    color: transparent;
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    margin: 15px;
+    text-align: center;
+  }
